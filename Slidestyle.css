@@ -52,9 +52,9 @@ button{
   width: 40%;
   height: 60px;
 position: absolute;
-left: 5%;
-right: 5%;
-bottom: 16%;
+   left: 5%;
+   right: 5%;
+   bottom: 16%;
   margin: 10px auto;
   justify-content: center;
   display: block;
