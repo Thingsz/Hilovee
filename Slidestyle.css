@@ -51,10 +51,7 @@ input{
 button{
   width: 20%;
   height: 60px;
-position:absolute;
-left: 5%;
-right: 5%;
-bottom: 0%;
+position:relative;
   margin: 10px auto;
   justify-content: center;
   display: block;
