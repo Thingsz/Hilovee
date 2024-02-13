@@ -49,12 +49,12 @@ input{
   border-radius: 5px;
 }
 button{
-  width: 30%;
+  width: 20%;
   height: 60px;
 position:absolute;
 left: 5%;
 right: 5%;
-bottom: 9%;
+bottom: 0%;
   margin: 10px auto;
   justify-content: center;
   display: block;
